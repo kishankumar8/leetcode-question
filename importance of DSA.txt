@@ -9,7 +9,8 @@ This repository is dedicated to solving Data Structures and Algorithms problems 
 
 Data Structures and Algorithms (DSA) is one of the most important parts of programming and software development.
 
-* **Data Structure** 👉 A way to organize and store data efficiently.
+* **Data Structure** 
+👉 A way to organize and store data efficiently.
 * **Algorithm** 👉 A step-by-step method to solve a problem.
 
 Together, DSA helps programmers write:
