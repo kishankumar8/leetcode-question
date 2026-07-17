@@ -10,5 +10,5 @@ upload all  the solved questions of leetcode.
 -> two sum (using array traversing and hashmap) .
 
 
-->find the  most  majority element .
+-nd the  most  majority element .
 
