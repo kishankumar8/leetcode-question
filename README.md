@@ -1,4 +1,4 @@
-# leetcode-question
+# leetcode-solved-question
 
 
 upload all  the solved questions of leetcode.
