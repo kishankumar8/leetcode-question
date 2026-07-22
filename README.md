@@ -3,4 +3,4 @@
 
 upload all  the solved questions of leetcode.
 # Easy and Logic based questi
- two sum (using array trav
+ two sum (using array tr
