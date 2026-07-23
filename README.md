@@ -2,5 +2,4 @@
 
 upload all  the solved questions of leetcode.
 
-
-# Easy and Lo
+# Easy and 
