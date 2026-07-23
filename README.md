@@ -4,5 +4,5 @@ upload all  the solved questions of leetcode.
 
 
 
-# Easy and Logic based questi
+# Easy and Logic based ques
  two 
